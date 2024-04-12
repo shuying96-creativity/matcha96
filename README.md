@@ -1,4 +1,4 @@
-# matcha96
+# shuying96-creativity
 My personal repository
 
 # I am currently a student learning how to code.
